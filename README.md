@@ -7,3 +7,4 @@ Implemented a priority queue for SJF to improve scheduling efficiency by giving 
 Used quantum counters in round-robin scheduling to avoid process starvation and proper CPU time allocation.
 <br>
 Provided project details and findings in a report, offer reference to future improvements and optimizations.
+<br>
